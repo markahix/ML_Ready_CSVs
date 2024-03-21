@@ -1,4 +1,4 @@
-SMILES,Absorption max (nm),Emission max (nm)
+Chromophore,Absorption max (nm),Emission max (nm)
 Oc1ccc(/C=C/CO)cc1,325,386
 C1=CC=C2C(=C1)C=C(C(=O)O2)N,350,445
 COC1=CC2=CC=CC=C2OC1=O,360,410
