@@ -1,0 +1,332 @@
+Chromophore,Absorption max (nm),Emission max (nm),Lifetime (ns),Quantum yield,Molecular weight (g mol-1),Extinction Coefficient
+diphenyl-anthracene,279,302,,1.0,,14000.0
+Tyrosine (Tyr),225,303,,0.13,,1405.0
+dimethyl thienocarbazole precursor,248,325,,0.0033,,18900.0
+trimethyl thienocarbazole precursor,240,330,,0.0032,,22540.0
+3-BPEB,317,342,,0.95,,52480.75
+4-BPEB,315,344,,0.71,,23442.29
+Fluoroside H (terphenyl),285,345,,0.42,,40100.0
+angular thienocarbazole,257,346,,0.057,,53530.0
+Tryptophan (Trp),287,348,,0.31,,6000.0
+"Fluoroside M (N,N-dimethylaniline)",260,357,,0.14,,17000.0
+linear thienocarbazole,269,372,,0.086,,61630.0
+Fluoroside I (binaphthyl),306,373,,0.57,,17000.0
+7-MeO-coumarin-AcOH abs,220,382,,0.18,,11820.0
+Fluoroside Y (pyrene),342,394,,0.12,,39000.0
+Fluoroside B (benzo[a]pyrene),394,408,,0.98,,28200.0
+Akhtaruzzaman (2004)  5c,362,427,,0.11,,51286.14
+Fluoroside T (terthiophene),358,432,,0.06,,31400.0
+Photoactive Yellow Protein 4-hydroxy cinnamic acid (I),360,439,,0.0,,45500.0
+EBFP,380,440,,0.2,,31500.0
+"Fluoroside D (N,N-dimethylaminostilbene)",348,441,,0.06,,25300.0
+Akhtaruzzaman (2004)  5b,350,441,,0.24,,12022.64
+Fluoroside E (perylene),440,443,,0.88,,39200.0
+BFP(P4-3),381,445,,0.38,,14000.0
+BFP(P4),383,447,,0.21,,13500.0
+Akhtaruzzaman (2004)  3c,356,448,,0.68,,107151.93
+Quinine sulfate (in 0.05M H2SO4),256,450,,0.55,,5700.0
+6-chloro-7-hydroxy-coumarin-DCH,408,450,,0.93,,44000.0
+quinine sulfate (in 0.05M H2SO4),256,450,,0.546,,5700.0
+quinine sulfate (in 0.5M H2SO4),256,451,,0.546,,5700.0
+Quinine sulfate (in 0.5M H2SO4),256,451,,0.55,,5700.0
+Distyrylpyridine 2a,386,457,,0.48,,22700.0
+Fluoroside O (oxoperylene),444,461,,0.81,,25100.0
+Distyrylpyridine 2c,390,461,,0.49,,27400.0
+Akhtaruzzaman (2004)  1c,388,464,,0.87,,26915.35
+DAPI (in DMSO),353,465,,0.58,,27000.0
+Akhtaruzzaman (2004)  3b,366,467,,0.9,,11481.54
+Akhtaruzzaman (2004)  3a,377,469,,0.8,,32359.37
+Distyrylpyridine 2b,396,472,,0.53,,28000.0
+Akhtaruzzaman (2004) 1a,393,473,,0.87,,30199.52
+CFP W7,433,475,,0.63,,14000.0
+Distyrylpyridine 2d,399,475,,0.45,,29200.0
+Cycle 3 GFP (alphaGFP),396,475,,0.8,,30000.0
+ECFP,434,477,,0.4,,26000.0
+Akhtaruzzaman (2004)  1b,396,479,,0.8,,28183.83
+Akhtaruzzaman (2004)  7c,397,480,,0.15,,32359.37
+4'-(2-benzo[b]furanyl)-3-hydroxychromone,413,481,,0.19,,35000.0
+"4'-Diethylamino-3-hydroxy-furano[3,2-g]flavone",418,482,,0.34,,41000.0
+Hoechst 33258 (in DMF),354,486,,0.35,,46000.0
+DAPI (in H2O),344,487,,0.043,,27000.0
+Distyrylpyridine 2e,414,491,,0.75,,32600.0
+Distyrylpyridine 2h,411,491,,0.72,,20700.0
+Distyrylpyridine 2g,412,493,,0.62,,25300.0
+Distyrylpyridine 2f,414,498,,0.54,,37300.0
+C829,479,499,,0.95,,49300.0
+C835,466,503,,0.66,,45000.0
+BODIPY 494/505,495,504,,1.0,,65600.0
+ImD-405,496,504,,0.8,,90000.0
+DAMBO,496,505,,0.0,,73000.0
+DAMBO-T,498,507,,0.4,,52000.0
+Hoechst 33258 (in H2O),345,507,,0.034,,46000.0
+EGFP ,488,507,,0.6,,55000.0
+GFP (wild type),395,508,,0.77,,21000.0
+"Aequorea GFP (wtGFP, avGFP)",395,508,,0.85,,30000.0
+GFP (Aequorea victoria wild type avGFP),395,508,,0.77,,21000.0
+GFP (Renilla),498,509,,0.8,,135000.0
+wtRenillaGFP,498,509,,0.8,,135000.0
+DBI-1,502,510,,0.8,,9000.0
+GFP Mut1,489,510,,0.6,,55000.0
+ATTO-Dino 3 (dsDNA),480,510,,0.7,,107000.0
+Vex-1 (violet GFP),398,510,,0.8,,35100.0
+GFP S65T,489,510,,0.6,,55000.0
+Proflavin (pH7),261,511,,0.34,,38900.0
+GFP (S65T),489,511,,0.66,,39000.0
+proflavin (pH7),261,511,,0.34,,38900.0
+ImD-404,504,512,,0.8,,90000.0
+NX,492,512,,0.83,,79000.0
+DTAF (Dichlorotriazinylamino-fluorescein),492,513,,0.92,,84000.0
+"6-Carboxy-2',7'-difluorofluorescein",492,514,,0.92,,85900.0
+"2',7;-Difluorofluorescein",490,514,,0.97,,82400.0
+DMAX-EP,492,515,,0.81,,71000.0
+DPAX-1-EP,494,515,,0.53,,79000.0
+ATTO-Dino 4 (dsDNA),485,515,,0.7,,140000.0
+ImD-401,512,516,,0.8,,90000.0
+DBI-8,512,516,,0.8,,9000.0
+DBI-4,512,516,,0.8,,9000.0
+DBI-3,512,516,,0.8,,9000.0
+DPAX-1,493,516,,0.01,,61000.0
+"5(6)-Carboxy-2',7'-difluorofluorescein",492,516,,0.92,,85900.0
+"5-Carboxy-2',7'-difluorofluorescein",492,517,,0.92,,85900.0
+Carboxyfluorescein Rhodamine 6G spirolactone 1a,497,517,,0.24,,66000.0
+Carboxyfluorescein Rhodamine 6G spirolactone 1d,497,517,,0.64,,54900.0
+Carboxyfluorescein Rhodamine 6G spirolactone 1e,497,517,,0.35,,62400.0
+Carboxyfluorescein Rhodamine 6G spirolactone 1f,497,517,,0.23,,58800.0
+Carboxyfluorescein Rhodamine 6G spirolactone 1b,497,517,,0.27,,67900.0
+Carboxyfluorescein Rhodamine 6G spirolactone 1c,497,517,,0.19,,69600.0
+DMAX,492,517,,0.02,,60000.0
+Alexa Fluor 488 (Alexa488),495,519,,0.94,,71000.0
+6-Carboxyfluorescein (FAM),495,520,,0.9,,83000.0
+5-Carboxyfluorescein (FAM),495,520,,0.9,,83000.0
+5(6)-Carboxyfluorescein (FAM),495,520,,0.9,,83000.0
+3'6-Carboxyfluorescein (FAM),495,520,,0.9,,83000.0
+ImD-403,513,521,,0.8,,90000.0
+BODIPY-TMSCC,503,521,,0.078,,48000.0
+Rhodol Green,496,523,,0.89,,63000.0
+"Brilliant sulfoflavine, K salt",420,525,,0.45,,15000.0
+BODIPY-Phenyl,515,526,,0.053,,54000.0
+"Photoactive Yellow Protein 3,4-hydroxy cinnamic acid (II)",450,527,,0.02,,20000.0
+"4,5,6,7-Tetrafluorofluorescein",508,527,,0.85,,85600.0
+"2',4,5,6,7,7'-Hexafluorofluorescein",508,527,,0.96,,81200.0
+EYFP,514,527,,0.61,,84000.0
+Photoactive Yellow Protein 3-methoxy-4-hydroxy cinnamic acid (III),461,527,,0.05,,20000.0
+YFP,513,527,,0.63,,36500.0
+ATTO-Dino 1 (dsDNA),490,531,,0.7,,179000.0
+ImD-402,526,532,,0.8,,90000.0
+DBI-7,526,532,,0.8,,9000.0
+DBI-6,526,532,,0.8,,9000.0
+DBI-2,526,532,,0.8,,9000.0
+DBI-5,526,532,,0.8,,9000.0
+BODIPY Meltola 2004 5,524,533,,0.79,,73000.0
+BODIPY Meltola 2004 4,524,533,,0.91,,75000.0
+BODIPY Meltola 2004 3,526,533,,0.9,,74000.0
+BODIPY Meltola 2004 6,526,533,,0.84,,75000.0
+"5(6)-Carboxy-2',4',5',7'-tetrafluorofluorescein",510,534,,0.59,,78100.0
+"5(6)-Carboxy-4',5'-difluorofluorescein",510,534,,0.43,,84200.0
+"Tetrapotassium 4-Amino-N-(4-methyl-3,5-disulfophenyl)-naphthalimide-3,6-disulfonate",428,535,,0.24,,12800.0
+DAMBO-PH,519,535,,0.0,,73000.0
+ATTO-Dino 2 (dsDNA),506,535,,0.7,,162000.0
+"Lucifer Yellow CH, K salt",428,535,,0.19,,12300.0
+diMe-BODIPY,516,536,,0.23,,59000.0
+DAMBO-PH-T,521,537,,0.74,,56000.0
+"Lucifer Yellow CH, Li salt",428,540,,0.19,,11900.0
+"Lucifer Yellow VS, Li salt",428,540,,0.22,,12200.0
+ATTO-Mono 2 (dsDNA),490,540,,0.25,,57200.0
+fluorescein (in basic EtOH),500,540,,0.97,,92300.0
+Eosin Y,525,543,,0.67,,112000.0
+BPTA-Tb3+,325,543,,1.0,,9290.0
+BPTA-Tb3+-streptavidin,322,543,,0.38,,17000.0
+ATTO-Mono 1 (dsDNA),515,545,,0.25,,68500.0
+BTTA-Tb3+,319,545,,0.0,,25000.0
+di-4-ABPPS,524,545,,0.5,,50118.72
+JO-PRO-1,530,546,,0.38,,94400.0
+Atto 520 ,525,547,,0.95,,105000.0
+"Photoactive Yellow Protein 3,4-dimethoxy-4-hydroxy cinnamic acid (IV)",485,548,,0.03,,20000.0
+BODIPY 535/558,530,548,,1.0,,76400.0
+BODIPY 507/545 IA,513,549,,0.73,,82800.0
+NBD-amine (NBD-ethanolamine),470,550,,0.21,,24600.0
+"2',4,4',5,5',6,7,7'-Octafluorofluorescein",535,553,,0.47,,83400.0
+Alexa Fluor 532 (Alexa532),532,553,,0.8,,81000.0
+Atto 532,534,560,,0.9,,115000.0
+ICC-3,545,563,,0.1,,13000.0
+ICC-5,545,563,,0.1,,13000.0
+ICC-4,545,563,,0.1,,13000.0
+ImD-304,550,563,,0.1,,130000.0
+ICC-1,545,563,,0.1,,13000.0
+ICC-2,545,563,,0.1,,13000.0
+ImD-301,545,563,,0.1,,130000.0
+Biscyanine IV,549,570,,0.049,,235000.0
+Cyanine VII,548,570,,0.053,,133000.0
+Oyster® - 556 (PBS),556,570,,0.2,,155000.0
+ATTO-Dino 3 (ssDNA),480,570,,0.7,,107000.0
+ZnOEP,404,571,,0.045,,417000.0
+C3-thiacyanine dye (EtOH),559,571,,0.05,,126000.0
+Biscyanine III,513,572,,0.045,,167000.0
+ATTO-Dino 4 (ssDNA),485,572,,0.7,,140000.0
+"Cy3B (""Cy3 Bright"")",558,572,,0.67,,130000.0
+C3-thiacyanine dye (PrOH),560,572,,0.05,,161000.0
+Alexa Fluor 546 (Alexa546),556,573,,0.96,,104000.0
+neo-Cy3 (PBS),551,573,,0.02,,98000.0
+neo-Cy3-cysteine,552,573,,0.02,,107000.0
+Tetramethylrhodamine (TMR),554,573,,0.28,,85000.0
+Biscyanine II,512,574,,0.032,,137000.0
+B-phycoerythrin (B-PE) (Porphyridium cruentum),545,575,,0.98,,2410000.0
+B-phycoerythrin (B-PE) (Porphyridium),545,575,,0.98,,2410000.0
+5(6)-Carboxytetramethylrhodamine (TAMRA),546,576,,0.2,,90000.0
+ATTO-Dino 2 (ssDNA),506,576,,0.7,,162000.0
+LO-PRO-1,567,580,,0.46,,102900.0
+di-4-ASPMC,509,580,,0.5,,31622.78
+Biscyanine I,504,580,,0.03,,141000.0
+MgOEP (in CH2Cl2),407,581,,0.15,,408300.0
+Oyster® - 556 (ethanol),565,581,,0.3,,155000.0
+ATTO-Dino 1 (ssDNA),490,582,,0.7,,179000.0
+MgOEP (in toluene),410,582,,0.15,,408300.0
+neo-Cy3 (MeOH),563,583,,0.03,,95000.0
+DsRed ,558,583,,0.7,,75000.0
+di-4-AMSPPS,450,584,,0.04,,12589.25
+Dapoxyl sulfonyl ethylenediamine,373,584,,0.39,,28000.0
+PHYA-PEB (Avena),576,586,,0.7,,113000.0
+2-CAREPBS,440,588,,0.3,,31622.78
+Cy3.2-IA,565,590,,0.07,,116000.0
+MCPHY1-PEB (Mesotaenium phytochrome A - phytochrome B adducts),580,590,,0.82,,77600.0
+PHYA-PEB (Mesotaenium),580,590,,0.82,,77600.0
+Biscyanine VI,513,592,,0.008,,312000.0
+BODIPY 564/591,564,593,,1.0,,78000.0
+di-4-ASPPS,525,595,,0.3,,63095.73
+neo-Cy3 (DMSO),573,595,,0.06,,97000.0
+di-6-ASP,462,595,,0.2,,25118.86
+BO-PRO-3,575,599,,0.62,,80900.0
+di-4-ASPES,519,600,,0.4,,50118.72
+di-4-ASPBS,517,600,,0.3,,50118.72
+di-6-ASPBS,519,600,,0.5,,63095.73
+di-6-ASPPS,526,600,,0.3,,79432.82
+4-INEPPS,427,600,,0.04,,31622.78
+ATTO-Mono 2 (ssDNA),490,600,,0.25,,57200.0
+S-TBA-H,586,601,,0.13,,112000.0
+X-Rhodamine,582,601,,0.26,,79000.0
+5(6)-Carboxy-X-Rhodamine (ROX),576,601,,0.7,,82000.0
+di-4-ASPEC,468,602,,0.2,,15848.93
+Alexa Fluor 568 (Alexa568),578,603,,0.75,,91300.0
+di-4-ASPEA,523,605,,0.07,,63095.73
+I-TBA,590,609,,0.99,,180000.0
+ATTO-Mono 1 (ssDNA),515,610,,0.25,,68500.0
+"7,15-DMPD",586,615,,0.82,,19400.0
+di-4-ASP,490,615,,0.5,,39810.72
+TTTA-Eu3+,336,615,,0.15,,24600.0
+S-TBA,598,615,,0.52,,220000.0
+S-TBA-NHCOCH3,595,616,,0.11,,108000.0
+BODIPY TR,588,616,,0.84,,68000.0
+Free PEB pH 10,536,616,,0.008,,16400.0
+Alexa Fluor 594 (Alexa594),590,617,,0.64,,73000.0
+Free PEB pH 4,590,617,,0.003,,20600.0
+BPTA-Eu3+-streptavidin,322,619,,0.043,,17000.0
+JULEPPS,553,620,,0.5,,50118.72
+BPTA-Eu3+,325,620,,0.134,,9290.0
+BTTA-Eu3+,319,620,,0.11,,25200.0
+I-SO-OSu,590,623,,0.19,,134000.0
+OEP,400,623,,0.13,,159000.0
+dcm-pyran (in CH3CN),458,624,,0.6,,44900.0
+dcm-pyran (in MeOH),464,624,,0.43,,420.0
+Tris(bpy)Ru,286,625,,0.04,,14600.0
+tris(bpy)Ru,286,625,,0.042,,14600.0
+S-SO-OSu,608,626,,0.12,,134000.0
+S-TBA-NH2,594,628,,0.01,,42000.0
+I-SO-betaME,609,628,,0.12,,142000.0
+C869,610,628,,0.49,,80000.0
+BODIPY 4j,619,629,,0.72,,145750.0
+S-SO-betaME,610,629,,0.054,,138000.0
+C837,606,633,,0.4,,60000.0
+BODIPY 609/634,606,634,,0.73,,81700.0
+Carboxy SNARF-1,576,635,,0.09,,48000.0
+S-SO-IAA,618,636,,0.06,,160000.0
+Crystal violet (glycerol),592,638,,0.02,,112000.0
+crystal violet (glycerol),592,638,,0.019,,112000.0
+I-SO-IAA,607,639,,0.06,,150000.0
+C1086,621,640,,0.15,,78000.0
+ZnTMP,421,643,,0.031,,385000.0
+ZnTPP,423,645,,0.033,,574000.0
+Atto 620,620,646,,0.7,,120000.0
+BODIPY 4h,634,647,,0.38,,126250.0
+BODIPY 3f,637,647,,0.34,,151000.0
+Je112,621,647,,0.55,,78000.0
+PTCP-Streptavidin,380,650,,0.29,,120000.0
+PTCP-antibody,380,650,,0.2,,120000.0
+ImD-502,635,650,,0.3,,250000.0
+"Pt 3,18,13,18-tetramethyl-
+21H,23H-porphine-2,7,12,18-tetrapropionic acid",380,650,,0.55,,120000.0
+PtPTP,380,650,,0.55,,120000.0
+PtCP-Streptavidin,380,650,,0.29,,120000.0
+PtCP-antibody,380,650,,0.2,,120000.0
+o-amino-TPP,406,654,,0.091,,166000.0
+ImD-501,640,657,,0.3,,250000.0
+ImD-101,418,658,,0.1,,360000.0
+nile blue (in MeOH),625,659,,0.27,,76800.0
+Nile blue (in MeOH),625,659,,0.27,,76800.0
+neo-Cy5 (PBS),643,660,,0.1,,170000.0
+Allophycocyanin,650,660,,0.68,,700000.0
+Allophycocyanin (APC),650,660,,0.68,,700000.0
+PR-4,404,662,,0.07,,180000.0
+MgTPP,426,663,,0.15,,570000.0
+MgTMP,427,664,,0.17,,446700.0
+di-ASQPS,587,665,,0.2,,79432.82
+neo-Cy5 (MeOH),648,665,,0.22,,200000.0
+S0438,647,665,,0.11,,270000.0
+ImD-504,649,666,,0.3,,250000.0
+Oyster® - 645 (PBS),645,666,,0.25,,250000.0
+S0436,643,667,,0.15,,160000.0
+S0694,646,668,,0.14,,140000.0
+Chen 2000 compound 18,634,668,,0.17,,41000.0
+ImD-503,648,668,,0.3,,250000.0
+IDCC-2,645,668,,0.3,,25000.0
+IDCC-3,645,668,,0.3,,25000.0
+IDCC-1,645,668,,0.3,,25000.0
+IDCC-4,645,668,,0.3,,25000.0
+IDCC-5,645,668,,0.3,,25000.0
+Oyster® - 645 (ethanol),651,669,,0.4,,250000.0
+F8-S5,651,670,,0.17,,130000.0
+MgPc (in PrOH),668,671,,0.76,,87100.0
+MgPc (in propanol),668,671,,0.76,,87100.0
+BODIPY 4i,658,673,,0.13,,139500.0
+"2,12-DMPD",609,673,,0.36,,25200.0
+BODIPY 3g,658,673,,0.05,,54250.0
+Oyster® - 656 (PBS),656,674,,0.3,,220000.0
+S0693,651,675,,0.1,,163000.0
+Pt meso-tetra(4-carboxyphenyl) porphine,402,675,,0.12,,210000.0
+neo-Cy5 (DMSO),656,675,,0.25,,195000.0
+ZnPc,674,678,,0.3,,281800.0
+MgPc (in pyridine),674,678,,0.48,,87100.0
+Atto 655 ,655,680,,0.5,,125000.0
+"2,10-DMPD",617,681,,0.29,,21800.0
+Porphin,396,683,,0.04,,261000.0
+Oyster® - 656 (ethanol),665,684,,0.5,,220000.0
+"2,10-DSPD",623,686,,0.26,,29600.0
+H4TPP,240,687,,0.14,,431000.0
+S0430,663,688,,0.08,,162000.0
+"2,10-DPAPD",622,689,,0.25,,28200.0
+DY-665-X (dichlorometh.),670,692,,0.6,,77600.0
+"2,10-DPPD",617,693,,0.02,,9000.0
+SKY IR,675,694,,0.23,,250000.0
+DY-660-X (dichlorometh.),662,695,,0.84,,77600.0
+DY-665-X (acetonitrile),653,697,,0.34,,79400.0
+PR-3,418,699,,0.08,,190000.0
+Atto 680,675,699,,0.4,,125000.0
+DY-660-X (acetonitrile),651,703,,0.3,,79400.0
+Biscyanine V,501,704,,0.005,,367000.0
+"2,10-DHPD",637,708,,0.14,,23000.0
+IRDye700,681,712,,0.477,,170000.0
+BODIPY 673/704,680,720,,0.31,,113500.0
+"2,4,10,12-TMPD",638,732,,0.06,,21200.0
+PdPTP,390,760,,0.17,,72000.0
+PdCP-Streptavidin,390,760,,0.09,,72000.0
+Cy7.18,755,778,,0.02,,200000.0
+IRDye40,768,788,,0.38,,140000.0
+IRDye80,767,791,,0.21,,250000.0
+Tetra-t-butylnaphthalocyanine ,785,793,,0.01,,26915.0
+IRDye78,768,796,,0.31,,220000.0
+IR-786 (HEPES pH 7.4),768,803,,0.033,,125350.0
+"IRDye78-CA (HEPES, pH 7.4)",771,806,,0.142,,145650.0
+IRDye38,778,806,,0.345,,179000.0
+IRDye78-CA (MeOH),774,807,,0.347,,186833.0
+IR-786 (MeOH),774,809,,0.159,,287767.0
+IRDye41,786,812,,0.141,,204000.0
+IRDye800,787,812,,0.15,,275000.0
